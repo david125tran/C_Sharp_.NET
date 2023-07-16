@@ -6,7 +6,7 @@ from the [Udemy Course](https://www.udemy.com/course/net-core-with-ms-sql-beginn
 Here I go over variables, data structures, operators, conditionals, loops, methods, and scope.  
   
 ### Section 03: C# Crash Course - Intermediate  
-Here I go over intermediate theory and connect to a SQL database in Azure Data Studios.  
+Here I go over intermediate theory and connect to a SQL database in Azure Data Studios.  I start by creating a database schema in Azure Data Studios (Section03 - DotNetCourseDatabase.sql).
   
 I make a Microsoft SQL database connection to write to the database and run queries using two different methods:  
 1) The Dapper Method
