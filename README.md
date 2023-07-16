@@ -33,5 +33,9 @@ Windows Powershell Terminal Package Install Requirements:
 8) dotnet add package Newtonsoft.Json
 9) dotnet add package Automapper
 
+### Section 05: TSQL  
+I ran a mock Microsoft Transact-SQL (TSQL) database design schema in Azure Data Studio.  
+
+
 
 
