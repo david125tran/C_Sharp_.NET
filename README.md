@@ -28,7 +28,7 @@ Windows Powershell Terminal Package Install Requirements:
 3) dotnet add package microsoft.entityframeworkcore
 4) dotnet add package microsoft.entityframeworkcore.sqlserver
 5) dotnet add package microsoft.Extensions.Configuration
-6) dotnet add package microsoft.Extensions.Json
+6) dotnet add package microsoft.Extensions.Configuration.Json
 7) dotnet restore
 8) dotnet add package Newtonsoft.Json
 9) dotnet add package Automapper
