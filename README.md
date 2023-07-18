@@ -36,7 +36,7 @@ Windows Powershell Terminal Package Install Requirements:
 ### Section 05: TSQL  
 I ran a mock Microsoft Transact-SQL (TSQL) database design schema in Azure Data Studio.  
   
-### Side Projects:  
+### C#, .NET, MS SQL, & Azure Data Studios Side Projects:  
 [Project 1](https://github.com/david125tran/CSharp_JSON_to_SQL) - In this project, I inject JSON data into  
 a MS SQL database by using the dapper mapper method. 
 
